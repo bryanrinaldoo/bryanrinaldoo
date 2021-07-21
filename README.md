@@ -29,7 +29,7 @@ Feel free to comment so i can improve my work. If you want to contact me, you ca
 
 <br />
 
-[twitter]: https://twitter.com/bryanrinaldoo
-[facebook]: https://www.facebook.com/bryanrinaldoo
-[instagram]: https://www.instagram.com/bryanrinaldoo/
-[linkedin]: https://www.linkedin.com/in/bryanrinaldoo/
+[twitter]: (https://twitter.com/bryanrinaldoo){:target="_blank"}
+[facebook]: (https://www.facebook.com/bryanrinaldoo){:target="_blank"}
+[instagram]: (https://www.instagram.com/bryanrinaldoo/){:target="_blank"}
+[linkedin]: (https://www.linkedin.com/in/bryanrinaldoo/){:target="_blank"}
