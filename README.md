@@ -18,9 +18,18 @@
 Hi, welcome to my simple github. In this github i will upload some of my work and my assignment. The pin repos are some of my work that i think is cool enough to be shown hahaha. 
 Feel free to comment so i can improve my work. If you want to contact me, you can connect with me through my social media down below. 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/bryanrinaldoo/" target="_blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/bryanrinaldoo/" target="_blank"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href=" https://twitter.com/bryanrinaldoo" target="_blank"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.facebook.com/bryanrinaldoo" target="_blank"><img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <br />
+
+
+<br />
+
+[twitter]: https://twitter.com/bryanrinaldoo
+[facebook]: https://www.facebook.com/bryanrinaldoo
+[instagram]: https://www.instagram.com/bryanrinaldoo/
+[linkedin]: https://www.linkedin.com/in/bryanrinaldoo/
