@@ -13,6 +13,7 @@
 ## My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanrinaldoo&repo=Twice-Website&theme=calm)](https://github.com/bryanrinaldoo/Twice-Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanrinaldoo&repo=Bookshelf-WebApp&theme=calm)](https://github.com/bryanrinaldoo/Bookshelf-WebApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanrinaldoo&repo=Todo-App&theme=calm)](https://github.com/bryanrinaldoo/Todo-App)
 
 ## Greetings
 Hi, welcome to my simple github. In this github i will upload some of my work and my assignment. The pin repos are some of my work that i think is cool enough to be shown hahaha. 
