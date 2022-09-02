@@ -13,6 +13,7 @@
 ## My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanrinaldoo&repo=Twice-Website&theme=calm)](https://github.com/bryanrinaldoo/Twice-Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanrinaldoo&repo=Bookshelf-WebApp&theme=calm)](https://github.com/bryanrinaldoo/Bookshelf-WebApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanrinaldoo&repo=MovieWeb&theme=calm)](https://github.com/bryanrinaldoo/MovieWeb)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanrinaldoo&repo=Todo-App&theme=calm)](https://github.com/bryanrinaldoo/Todo-App)
 
 ## Greetings
